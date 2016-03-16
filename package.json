@@ -1,0 +1,31 @@
+{
+  "name": "redux-form-document",
+  "description": "Document resource component using redux-form framework.",
+  "homepage": "https://github.com/penteleq/redux-form-document",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "redux"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:penteleq/redux-form-document.git"
+  },
+  "author": "Rafał Łyczkowski | penteleq@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penteleq/redux-form-document/issues"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.1",
+    "redux-thunk": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "redux-devtools": "^3.1.1"
+  }
+}
